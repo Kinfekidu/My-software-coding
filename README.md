@@ -1,2 +1,2 @@
 # My-software-coding
-All scratch cods
+All scratch code
