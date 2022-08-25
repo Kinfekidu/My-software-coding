@@ -2,7 +2,7 @@
 
 #Whenever a customer in any website or helpdesk click the robot, the robot leads the customers to a necessory step to follow.
 So the instruction is first to click the robot.
-# <iframe src="https://scratch.mit.edu/projects/717577089/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+ <iframe src="https://scratch.mit.edu/projects/717577089/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
  
  #Thanks to Roman he introduced me to scratch, I have no idea about it before. Scrach as its name shows, I found it easy to practice coding by scraching the codes. However, as of my understanding scrach is just only for beginners.
 # I am inspired to create a website for non-political, non-religious,and not for profit commmuinity groups.
